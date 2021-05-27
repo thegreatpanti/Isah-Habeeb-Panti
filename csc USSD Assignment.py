@@ -1,0 +1,8 @@
+print("Welcome","Isah Habeeb Panti")
+print ("Please input your bank's ussd code")
+input ()
+print ("Dial any of the options")
+print ("1.Check Account Balance")
+print ("2.Transfers")
+print ("3.Airtime")
+print ("4.Transaction history")
